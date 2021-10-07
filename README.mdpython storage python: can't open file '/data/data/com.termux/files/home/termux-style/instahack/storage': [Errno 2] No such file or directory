@@ -1,12 +1,4 @@
-- 👋 Hi, I’m @ajithsjdj
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-ajithsjdj/ajithsjdj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 python storage
 python: can't open file '/data/data/com.termux/files/home/termux-style/instahack/storage': [Errno 2] No such file or directory
+
